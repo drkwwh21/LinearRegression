@@ -11,7 +11,7 @@
 
 <h2>Data Source</h2>
 
-The data set is appended to this repository and contains six sheets of data for working with linear regression.
+This repository contains multiple different projects and studies that leverage linear regression. Each study uses a specific data set and is per instructed in their associated notebooks.
 
 <h2>Introduction and concepts</h2>
 
